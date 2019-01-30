@@ -1,7 +1,7 @@
 # JavaScript_Puissance4
 
-Projet de puissance 4 pour la formation de la Web@cademie
-
+Projet pour la formation de la Web@cademie. Réalisé en un peu moins de deux semaines, ce puissance 4 propose de jouer contre une IA d'entrainement.
 
 Pour l'utiliser :
-- Lancez tout simplement le fichier html.
+- Cloner les fichiers.
+- Lancez tout simplement le fichier testpuissance4.html.
